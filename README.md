@@ -1,1 +1,0 @@
-This project is an integrated user management system, providing basic functionality for user registration, login, profile management, and an administrator control panel to manage users and the system in general. The project was developed using PHP & MySQL.
